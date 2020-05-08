@@ -3,3 +3,4 @@ Zeile 2: erstellt im Bugfixg-Branch??
 Zeile 3: erstellt im Bugfixg-Branch
 Zeile 4: commit C3 xxx
 Zeile 5: commit C4
+Zeile 6: commit C7
